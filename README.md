@@ -1,1 +1,2 @@
-# markdown_img
+# 图片管理
+此文件夹下存放的文件为markdown中使用的文件
